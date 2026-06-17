@@ -1,0 +1,17 @@
+{
+  "name": "backend-with-sleepy-bear",
+  "version": "1.0.0",
+  "description": "a backend with sleepy bear",
+  "keywords": [
+    "javascript",
+    "backend",
+    "sleepybear"
+  ],
+  "license": "ISC",
+  "author": "Sleepy Bear",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
